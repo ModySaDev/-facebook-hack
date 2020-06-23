@@ -29,6 +29,6 @@ unzip techcochi.zip
 clear
 rm -rf techcochi.zip
 clear
-
+done done done done 
 
 
