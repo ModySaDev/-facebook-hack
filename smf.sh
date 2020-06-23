@@ -12,7 +12,7 @@ command -v ssh > /dev/null 2>&1 || { echo >&2 "Openssh is not installed ! Instal
 command -v unzip > /dev/null 2>&1 || { echo >&2 "Unzip is not installed ! Install it"; exit 1; }
 }
 banner() {
-clear LP a
+clear
 printf " \e[91m ███████╗\e[0m\e[1;92m ███╗   ███╗ \e[0m\e[1;93m ███████╗  \e[0m\e[1;91m ▄█▀─▄▄▄▄▄▄▄─▀█▄ \e[0m\n"
 printf " \e[91m ██╔════╝\e[0m\e[1;92m ████╗ ████║ \e[0m\e[1;93m ██╔════╝ \e[0m\e[1;91m  ▀█████████████▀ \e[0m\n"
 printf " \e[91m ███████╗\e[0m\e[1;92m ██╔████╔██║ \e[0m\e[1;93m █████╗ \e[0m\e[1;91m        █▄███▄█ \e[0m\n"
