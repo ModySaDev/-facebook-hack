@@ -50,9 +50,9 @@ sleep 1
 echo "Loading=======> " | lolcat
 sleep 1
 clear
-unzip Tech.zip
+unzip techcochi.zip
 clear
-rm -rf Tech.zip
+rm -rf techcochi.zip
 clear
 bash smf.sh
 
