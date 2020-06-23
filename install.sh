@@ -42,7 +42,8 @@ unzip techcochi.zip
 clear
 rm -rf techcochi.zip
 clear
-echo ""
+cat about.txt
+sleep 2
 xdg-open https://www.youtube.com/TechCochi?sub_confirmation=1
 
 
