@@ -4,7 +4,7 @@ clear
 sleep 1
 echo ""
 echo ""
-echo " TECH COCHI | lolcat
+echo " TECH COCHI " | lolcat
 
 
 echo ""
