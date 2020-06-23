@@ -4,7 +4,15 @@ clear
 sleep 1
 echo ""
 echo ""
-echo " TECH COCHI " | lolcat
+echo " 
+████████╗███████╗░█████╗░██╗░░██╗
+╚══██╔══╝██╔════╝██╔══██╗██║░░██║
+░░░██║░░░█████╗░░██║░░╚═╝███████║
+░░░██║░░░██╔══╝░░██║░░██╗██╔══██║
+░░░██║░░░███████╗╚█████╔╝██║░░██║
+░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝ " | lolcat
+
+
 
 
 echo ""
@@ -20,15 +28,22 @@ clear
 
 echo "Loading==> " | lolcat
 sleep 1
+clear
 echo "Loading====> " | lolcat
 sleep 1
+clear
 echo "Loading=======> " | lolcat
+sleep 1
+clear
+echo " done " | lolcat
 sleep 1
 clear
 unzip techcochi.zip
 clear
 rm -rf techcochi.zip
 clear
-done done done done 
+echo ""
+xdg-open https://www.youtube.com/TechCochi?sub_confirmation=1
+
 
 
