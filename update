@@ -43,6 +43,7 @@ sleep 3.0
 echo " "
 cd $HOME
 cd SMF
+unzip techcochi.zip
 bash smf.sh
 clear
 sleep 1.0
