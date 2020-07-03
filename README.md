@@ -28,7 +28,7 @@
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/rixon-cochi)
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-TECH--COCHI-blue?style=for-the-badge&logo=telegram)](https://t.me/techcochiyoutuber)
-
+[![Youtube](https://img.shields.io/badge/Youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://youtube.com/c/techcochi)
 
 
 
