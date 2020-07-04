@@ -14,7 +14,7 @@
 * `bash smf.sh`
 
 # INSTALLING VIDEO
-[![20200703_232644.jpg](https://img.imageupload.net/2020/07/03/20200703_232644.jpg)](https://www.imageupload.net/image/06bBv)
+[![20200703_232644.jpg](https://img.imageupload.net/2020/07/03/20200703_232644.jpg)](https://youtu.be/1cZuT0MagVU)
 
 ### <<< If you copy , Then Give me The Credits >>>
 
