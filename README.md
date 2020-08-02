@@ -1,3 +1,4 @@
+<a href='https://m.miningbase.cloud/index.php?reffid=qqSwq5qT' target='_blank'><img src='https://m.miningbase.cloud/assets/img/728.gif'></a>
 # TECH COCHI
 [![20200703_192925.png](https://img.imageupload.net/2020/07/03/20200703_192925.png)](https://youtube.com/c/techcochi)
 
