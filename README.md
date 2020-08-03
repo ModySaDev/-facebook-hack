@@ -1,6 +1,6 @@
 <a href='https://m.miningbase.cloud/index.php?reffid=qqSwq5qT' target='_blank'><img src='https://m.miningbase.cloud/assets/img/728.gif'></a>
 # TECH COCHI
-[![20200703_192925.png](https://img.imageupload.net/2020/07/03/20200703_192925.png)](https://youtube.com/c/techcochi)
+[![20200703_192925.png](https://img.imageupload.net/2020/07/03/20200703_192925.png)](https://m.miningbase.cloud/index.php?reffid=qqSwq5qT)
 
 # SMF HACKING TOOL 
 [![IMG_20200624_014109.md.jpg](https://imagehost.imageupload.net/2020/06/24/IMG_20200624_014109.md.jpg)](https://www.imageupload.net/image/9pFIc)
