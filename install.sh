@@ -44,7 +44,7 @@ rm -rf techcochi.zip
 clear
 bash about.sh
 sleep 4
-xdg-open https://www.youtube.com/TechCochi?sub_confirmation=1
+xdg-open https://www.youtube.com/channel/UCiE0p7rXWBEncUVsLo1C5Xg
 
 
 
