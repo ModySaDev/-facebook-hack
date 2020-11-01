@@ -1,6 +1,6 @@
-<a href="https://bestmining.top/?ref=rockrixon"  target="_blank">
-<img src="https://bestmining.top/public/banner/234x60.gif"/>
-</a>
+
+
+
 
 # TECH COCHI
 [![20200703_192925.png](https://img.imageupload.net/2020/07/03/20200703_192925.png)]
