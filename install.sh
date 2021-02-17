@@ -52,5 +52,5 @@ echo ""
 sleep 10
 echo " create account on ecoin "
 echo " set your browser "
-termux-open-url https://earnecoin.com/refer/l34esv0
+termux-open-url http://techcoch.blogspot.com/2020/10/follow-instructions.html?m=1
 echo ""
